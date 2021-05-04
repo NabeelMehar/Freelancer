@@ -108,7 +108,7 @@ else
 		<!--[if lt IE 9]>
 		<script src="js/ie-support/html5.js"></script>
 		<script src="js/ie-support/respond.js"></script>
-		<![endif]-->
+		<![endif]d-->
 
 	</head>
 
