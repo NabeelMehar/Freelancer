@@ -1,0 +1,1 @@
+!function($,a,o){$(a).ready(function(){$("[data-bg-color]").each(function(){var a=$(this).data("bg-color");$(this).css("background-color",a)}),$("[data-bg-image]").each(function(){var a=$(this).data("bg-image");$(this).css("background-image","url("+a+")")})}),$(o).load(function(){})}(jQuery,document,window);
