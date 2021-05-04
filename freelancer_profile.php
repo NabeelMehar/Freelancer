@@ -59,7 +59,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 		//echo $qe;
 		 mysqli_query($con,$qe) or exit('error');
 		 
-		 $message="Your Information Sucessfully Updated";		 		 
+		 $message="Your Information is Successfully Updated";		 		 
 		 
 		 $photo="upload/$photo";
 		
@@ -147,7 +147,7 @@ Freelancer Profile
 
 						<div class="price-area">
 							<div class="row">
-							<p style="margin-left:50px;">
+							<p style="margin-left:50px;  color:green;">
 							<?php
 							
 							if($message!="")

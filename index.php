@@ -91,7 +91,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 							<div class="col-md-5 col-md-offset-2">
 								<div class="request-form">
 									<h2>Register</h2>
-									<p style="color:yellow;">
+									<p style="color:green;">
 									<?php
 									
 									if($register_message!="")

@@ -97,8 +97,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 							<div class="col-md-5">
 								<div class="hero-content">
 									<h2 class="hero-title">
-Hire expert freelancers</h2>
-									
+										Hire expert freelancers</h2>
 									<span class="arrow"></span>
 								</div>
 							</div> <!-- .col-md-5 -->
